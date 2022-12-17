@@ -1,0 +1,19 @@
+{
+  "name": "ts-node-tutorial",
+  "version": "1.0.0",
+  "description": "https://www.youtube.com/watch?v=UcwT1SAvxG0&t=5s",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JPhasma/ts-node-tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JPhasma/ts-node-tutorial/issues"
+  },
+  "homepage": "https://github.com/JPhasma/ts-node-tutorial#readme"
+}
